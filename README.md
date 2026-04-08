@@ -1,8 +1,9 @@
-<h2 align="left">Hi 👋! My name is Ömer Kasımoğlu</h2>
+<!-- <h2 align="left">Hi 👋! My name is Ömer Kasımoğlu</h2> -->
 
+[![Header](https://github.com/Kasimoglu-4/Kasimoglu-4/blob/main/omer_kasimoglu.gif)](https://www.linkedin.com/in/omer-kasimoglu4/)
 ###
 
-<h3 align="center">Future Software Engineer | Aspiring .NET Developer | Passionate About Backend Development</h3>
+<h3 align="center">Software Engineer · C# / .NET · AI</h3>
 
 ###
 
